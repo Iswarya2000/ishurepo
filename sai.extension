@@ -1,4 +1,4 @@
-swap two numbers using python
+swap two numbers.python
 a,b,temp=3,4,0
 temp=a
 a=b
