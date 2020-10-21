@@ -1,6 +1,6 @@
 python-odd or even
 num=int(input("Enter the number:"))
 if(num%2)==0:
-print("It is even number")
+print(" {} is even number",format(num))
 else:
-print("It is odd number")
+print("{} is odd number",format(num))
